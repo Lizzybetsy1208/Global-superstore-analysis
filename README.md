@@ -42,3 +42,39 @@ The following power bi features were incorporated:
   ![](Global_superstore_people.PNG)
   ![](Global_superstore_returns.PNG)
 
+  Features:
+  My dashboard features include;
+- Donut chart
+- Slicer
+- Stacked bar chart
+- Stacked column chart
+- Clustered column chart
+- 100% Stacked bar chart
+
+  ## Analysis
+  The three countries that generated the highest total profit for Global Superstore in 2014 are the United States, India, and China.
+In the United States, the most profitable products were:
+•	Canon imageCLASS 2200 Advanced Copier with a total profit of $15,679.96
+•	Hewlett Packard Laserjet 3310 Copier with a total profit of $3,623.94
+•	GBC DocuBind TL300 Electric Binding System with a total profit of $1,910.59
+In India, the top products were:
+•	Sauder Classic Bookcase Traditional with a total profit of $2,419.65
+•	Cisco Smart Phone with Caller ID with a total profit of $1,609.38
+•	Hamilton Beach Refrigerator Red with a total profit of $1,440.24
+In China, the leading products were:
+•	Sauder Classic Bookcase Metal with a total profit of $1,463.07
+•	Bush Classic Bookcase Mobile with a total profit of $1,220.52
+•	HP Copy Machine Color with a total profit of $1,196.13
+The subcategories with the highest average shipping costs in the United States are copiers, machines, and tables.
+Nigeria's total profit in 2014 was very low compared to other African countries. The average discount in Nigeria was very high, which likely contributed to its low profit and poor performance.
+The product subcategories that were the least profitable in Southeast Asia are supplies, accessories, and tables. Global Superstore should consider discontinuing these subcategories in Indonesia, as they generate very low profits.
+The city with the least profit in terms of average profit in the United States is Lancaster.
+In Australia, the product subcategory with the highest average profit is appliances.
+The most valuable customers are those with customer IDs TA-21385, TC-20980, and TM-20320. They purchased the Canon imageCLASS 2200 Advanced Copier and the Cisco Telepresence System EX90 Videoconferencing Unit
+
+## Global superstore dashboard:
+![](Global_superstore_dashboard.PNG)
+![](Global_superstore_dashboard2.PNG)
+
+
+
