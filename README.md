@@ -30,3 +30,15 @@ The following power bi features were incorporated:
 - New measure,
 - New column,
 - Filtering
+
+  ## Visualization
+  The report consists of:
+- Orders,
+- People,
+- Returns
+
+  You can see the dataset here
+  ![](Global_superstore_orders.PNG)
+  ![](Global_superstore_people.PNG)
+  ![](Global_superstore_returns.PNG)
+
