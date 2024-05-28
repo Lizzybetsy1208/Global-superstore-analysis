@@ -54,17 +54,17 @@ The following power bi features were incorporated:
   ## Analysis
   The three countries that generated the highest total profit for Global Superstore in 2014 are the United States, India, and China.
 In the United States, the most profitable products were:
-•	Canon imageCLASS 2200 Advanced Copier with a total profit of $15,679.96
-•	Hewlett Packard Laserjet 3310 Copier with a total profit of $3,623.94
-•	GBC DocuBind TL300 Electric Binding System with a total profit of $1,910.59
+- Canon imageCLASS 2200 Advanced Copier with a total profit of $15,679.96
+- Hewlett Packard Laserjet 3310 Copier with a total profit of $3,623.94
+- GBC DocuBind TL300 Electric Binding System with a total profit of $1,910.59
 In India, the top products were:
-•	Sauder Classic Bookcase Traditional with a total profit of $2,419.65
-•	Cisco Smart Phone with Caller ID with a total profit of $1,609.38
-•	Hamilton Beach Refrigerator Red with a total profit of $1,440.24
+- Sauder Classic Bookcase Traditional with a total profit of $2,419.65
+- Cisco Smart Phone with Caller ID with a total profit of $1,609.38
+- Hamilton Beach Refrigerator Red with a total profit of $1,440.24
 In China, the leading products were:
-•	Sauder Classic Bookcase Metal with a total profit of $1,463.07
-•	Bush Classic Bookcase Mobile with a total profit of $1,220.52
-•	HP Copy Machine Color with a total profit of $1,196.13
+- Sauder Classic Bookcase Metal with a total profit of $1,463.07
+- Bush Classic Bookcase Mobile with a total profit of $1,220.52
+- HP Copy Machine Color with a total profit of $1,196.13
 The subcategories with the highest average shipping costs in the United States are copiers, machines, and tables.
 Nigeria's total profit in 2014 was very low compared to other African countries. The average discount in Nigeria was very high, which likely contributed to its low profit and poor performance.
 The product subcategories that were the least profitable in Southeast Asia are supplies, accessories, and tables. Global Superstore should consider discontinuing these subcategories in Indonesia, as they generate very low profits.
@@ -88,7 +88,7 @@ Furthermore, Lancaster in the United States recorded the lowest average profit a
 4.	Analyze Shipping Costs: Conduct a detailed analysis of shipping costs for high-cost subcategories in the United States, such as copiers, machines, and tables. Explore cost-saving measures in logistics and supply chain management to improve margins.
 5.	Target High-Value Customers: Develop loyalty programs and targeted marketing campaigns for the most valuable customers (e.g., those with IDs TA-21385, TC-20980, and TM-20320). Offering personalized incentives can enhance customer retention and increase sales.
 6.	Improve Profitability in Low-Performing Cities: Investigate the factors contributing to low profitability in cities like Lancaster. Implement localized marketing strategies and evaluate product offerings to better meet the needs of these markets.
-By implementing these recommendations, Global Superstore can optimize its product offerings, enhance profitability, and strategically target key markets and customer segments.
+By implementing these recommendations, Global Superstore can optimize its product offerings, enhance profitability, and strategically target key markets and customer segments.😄
 
 
 
