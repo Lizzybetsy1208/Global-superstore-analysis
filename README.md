@@ -53,15 +53,15 @@ The following power bi features were incorporated:
 
   ## Analysis
   The three countries that generated the highest total profit for Global Superstore in 2014 are the United States, India, and China.
-In the United States, the most profitable products were:
+#### In the United States, the most profitable products were:
 - Canon imageCLASS 2200 Advanced Copier with a total profit of $15,679.96
 - Hewlett Packard Laserjet 3310 Copier with a total profit of $3,623.94
 - GBC DocuBind TL300 Electric Binding System with a total profit of $1,910.59
-In India, the top products were:
+#### In India, the top products were:
 - Sauder Classic Bookcase Traditional with a total profit of $2,419.65
 - Cisco Smart Phone with Caller ID with a total profit of $1,609.38
 - Hamilton Beach Refrigerator Red with a total profit of $1,440.24
-In China, the leading products were:
+#### In China, the leading products were:
 - Sauder Classic Bookcase Metal with a total profit of $1,463.07
 - Bush Classic Bookcase Mobile with a total profit of $1,220.52
 - HP Copy Machine Color with a total profit of $1,196.13
