@@ -76,5 +76,20 @@ The most valuable customers are those with customer IDs TA-21385, TC-20980, and 
 ![](Global_superstore_dashboard.PNG)
 ![](Global_superstore_dashboard2.PNG)
 
+## Conclusion and recommendation
+### Conclusion:
+The analysis of Global Superstore's sales and profit data for 2014 has revealed several key insights. The United States, India, and China emerged as the top three countries in terms of total profit. In the United States, products like the Canon imageCLASS 2200 Advanced Copier and Hewlett Packard Laserjet 3310 Copier generated the highest profits. India and China also showed strong performance with specific high-profit products such as the Sauder Classic Bookcase and Cisco Smart Phone.
+However, certain regions and product subcategories performed poorly. Nigeria's low total profit, coupled with its high average discount, indicates a need for strategic pricing adjustments. In Southeast Asia, subcategories like supplies, accessories, and tables were the least profitable, particularly in Indonesia.
+Furthermore, Lancaster in the United States recorded the lowest average profit among cities, while appliances proved to be the most profitable subcategory in Australia. Identifying valuable customers, such as those with IDs TA-21385, TC-20980, and TM-20320, can help target high-value sales opportunities.
+### Recommendations:
+1.	Focus on High-Profit Products: Continue to promote and prioritize high-profit products identified in the United States, India, and China. This includes maintaining inventory levels and marketing efforts for items like the Canon imageCLASS 2200 Advanced Copier and Sauder Classic Bookcase.
+2.	Adjust Pricing Strategies in Nigeria: Review and adjust the discount strategies in Nigeria to improve profitability. Implement targeted promotions and evaluate the pricing structure to reduce excessive discounting.
+3.	Discontinue Low-Profit Subcategories in Southeast Asia: Consider discontinuing the supplies, accessories, and tables subcategories in Indonesia due to their low profitability. Focus on more profitable product lines to enhance overall performance in the region.
+4.	Analyze Shipping Costs: Conduct a detailed analysis of shipping costs for high-cost subcategories in the United States, such as copiers, machines, and tables. Explore cost-saving measures in logistics and supply chain management to improve margins.
+5.	Target High-Value Customers: Develop loyalty programs and targeted marketing campaigns for the most valuable customers (e.g., those with IDs TA-21385, TC-20980, and TM-20320). Offering personalized incentives can enhance customer retention and increase sales.
+6.	Improve Profitability in Low-Performing Cities: Investigate the factors contributing to low profitability in cities like Lancaster. Implement localized marketing strategies and evaluate product offerings to better meet the needs of these markets.
+By implementing these recommendations, Global Superstore can optimize its product offerings, enhance profitability, and strategically target key markets and customer segments.
+
+
 
 
